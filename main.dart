@@ -1,3 +1,3 @@
 void main() {
-  print("Hello word");
+  final List<double> notas = [5.2, 4.7, 3.8];
 }
